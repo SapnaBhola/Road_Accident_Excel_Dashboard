@@ -27,9 +27,7 @@ This project is an interactive Excel dashboard analyzing road accident data in t
 ## Dashboard Preview
 
 ![Dashboard Screenshot](road accident dashboard.png)
-
-
-> Replace this image with your actual screenshot (same name)
+----
 
 ##  Tools Used
 

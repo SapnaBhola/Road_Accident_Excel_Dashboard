@@ -46,6 +46,10 @@ An **interactive Excel dashboard** analyzing road accident data across the UK, d
 | `road accident dashboard.png` | Screenshot/preview of the final dashboard           |
 | `README.md`                | This documentation file                              |
 
+| [Road Accident Data.xlsx](Road%20Accident%20Data.xlsx) | Download the dataset used in the dashboard |
+| [View on Google Sheets](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066) | Online preview of the dataset |
+
+
 ---
 
 ##  How to Use
